@@ -28,8 +28,7 @@ You will complete a practice notebook that guides you through essential Python a
 **What is forking?** Creating your own copy of someone else's repository.
 
 1. **Go to the instructor's repository:**
-   - URL will be provided on Canvas
-   - Or: [https://github.com/allengwinn/week5-git-practice](URL here)
+   - `https://github.com/allengwinn/week5-git-practice`
 
 2. **Click the "Fork" button**
    - Located in the top-right corner
